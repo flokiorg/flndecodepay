@@ -3,7 +3,7 @@ module github.com/flokiorg/flndecodepay
 go 1.26.1
 
 require (
-	github.com/flokiorg/flnd v0.1.20-beta
+	github.com/flokiorg/flnd v0.1.21-beta
 	github.com/flokiorg/go-flokicoin v0.25.13-alpha
 	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.18.0
