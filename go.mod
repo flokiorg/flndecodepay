@@ -1,6 +1,6 @@
 module github.com/flokiorg/flndecodepay
 
-go 1.26.1
+go 1.26.5
 
 require (
 	github.com/flokiorg/flnd v0.2.0-beta
