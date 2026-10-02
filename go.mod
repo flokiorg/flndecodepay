@@ -1,10 +1,10 @@
 module github.com/flokiorg/flndecodepay
 
-go 1.26.5
+go 1.26.8
 
 require (
-	github.com/flokiorg/flnd v0.2.0-beta
-	github.com/flokiorg/go-flokicoin v0.26.0-alpha
+	github.com/flokiorg/flnd v0.2.3
+	github.com/flokiorg/go-flokicoin v0.26.3
 	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.18.0
 )
@@ -20,10 +20,10 @@ require (
 	github.com/decred/dcrd/crypto/blake256 v1.1.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
 	github.com/decred/dcrd/lru v1.1.3 // indirect
-	github.com/flokiorg/flokicoin-neutrino v0.17.0-beta // indirect
+	github.com/flokiorg/flokicoin-neutrino v0.17.2 // indirect
 	github.com/flokiorg/go-socks v0.0.0-20170105172521-4720035b7bfd // indirect
-	github.com/flokiorg/lightning-onion v1.0.1-alpha // indirect
-	github.com/flokiorg/walletd v0.2.0-beta // indirect
+	github.com/flokiorg/lightning-onion v1.0.4 // indirect
+	github.com/flokiorg/walletd v0.2.2 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/kkdai/bstream v1.0.0 // indirect
 	github.com/lightninglabs/gozmq v0.0.0-20191113021534-d20a764486bf // indirect
@@ -37,14 +37,14 @@ require (
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
-	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/crypto v0.57.0 // indirect
 	golang.org/x/exp v0.0.0-20250811191247-51f88131bc50 // indirect
-	golang.org/x/mod v0.35.0 // indirect
-	golang.org/x/net v0.54.0 // indirect
-	golang.org/x/sync v0.20.0 // indirect
-	golang.org/x/sys v0.45.0 // indirect
-	golang.org/x/term v0.43.0 // indirect
-	golang.org/x/tools v0.44.0 // indirect
+	golang.org/x/mod v0.41.0 // indirect
+	golang.org/x/net v0.59.0 // indirect
+	golang.org/x/sync v0.23.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/term v0.46.0 // indirect
+	golang.org/x/tools v0.49.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	pgregory.net/rapid v1.2.0 // indirect
 )
