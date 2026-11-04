@@ -3,8 +3,8 @@ module github.com/flokiorg/flndecodepay
 go 1.26.8
 
 require (
-	github.com/flokiorg/flnd v0.2.3
-	github.com/flokiorg/go-flokicoin v0.26.3
+	github.com/flokiorg/flnd v0.2.6-rc.1
+	github.com/flokiorg/go-flokicoin v0.26.4-rc.1
 	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.18.0
 )
@@ -20,10 +20,10 @@ require (
 	github.com/decred/dcrd/crypto/blake256 v1.1.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
 	github.com/decred/dcrd/lru v1.1.3 // indirect
-	github.com/flokiorg/flokicoin-neutrino v0.17.2 // indirect
+	github.com/flokiorg/flokicoin-neutrino v0.17.3-rc.1 // indirect
 	github.com/flokiorg/go-socks v0.0.0-20170105172521-4720035b7bfd // indirect
-	github.com/flokiorg/lightning-onion v1.0.4 // indirect
-	github.com/flokiorg/walletd v0.2.2 // indirect
+	github.com/flokiorg/lightning-onion v1.0.5-rc.1 // indirect
+	github.com/flokiorg/walletd v0.2.4-rc.1 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/kkdai/bstream v1.0.0 // indirect
 	github.com/lightninglabs/gozmq v0.0.0-20191113021534-d20a764486bf // indirect
