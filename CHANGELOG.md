@@ -5,7 +5,7 @@
 ### Changed
 
 - Updates `flnd` to v0.2.6-rc.1 and `go-flokicoin` to v0.26.4-rc.1, taking the
-  latest Flokicoin libraries.
+  latest Flokicoin libraries. (#6)
 
 ## [1.0.5]
 
